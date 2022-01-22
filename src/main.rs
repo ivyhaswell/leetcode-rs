@@ -4,6 +4,7 @@ mod lc0003;
 mod lc0004;
 mod lc0005;
 mod lc0007;
+mod lc0008;
 
 mod linked_list;
 
